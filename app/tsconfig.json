@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "target": "ES5",
+    "sourceMap": false,
+    "listFiles": true
+  },
+  "files": [
+    "js/app.ts",
+    "js/main.ts",
+    "js/controllers/HomeController.ts",
+    "js/directives/clientComments.ts",
+    "js/directives/locations.ts",
+    "js/directives/ourServices.ts",
+    "js/directives/recentWorks.ts",
+    "js/directives/teamMemberProfiles.ts",
+    "js/services/DummyData.ts",
+    "js/services/RestData.ts",
+    "js/typings/angular-route.d.ts",
+    "js/typings/jquery.d.ts",
+    "js/typings/angular.d.ts",
+    "js/typings/tsd.d.ts"
+  ]
+}
